@@ -1,0 +1,26 @@
+{
+  "name": "areajs",
+  "version": "1.0.0",
+  "description": "Finding area of shapes",
+  "main": "area.js",
+  "scripts": {
+    "test": "node execute.js 1 1 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomeanand/areajs.git"
+  },
+  "keywords": [
+    "Finding",
+    "area",
+    "of",
+    "given",
+    "shapes"
+  ],
+  "author": "Anand V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomeanand/areajs/issues"
+  },
+  "homepage": "https://github.com/tomeanand/areajs"
+}
